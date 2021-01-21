@@ -1,0 +1,19 @@
+Title: Haus auf einer Lichtung
+
+----
+
+Text:
+
+Haus auf einer Lichtung, Thüringer Becken 
+-
+
+----
+
+Gallery:
+
+- 
+  image:
+    - waldhaus-neu.jpg
+- 
+  image:
+    - waldhaus-grundriss.jpg

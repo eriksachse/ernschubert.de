@@ -1,0 +1,26 @@
+Title: Haus für einen Fischer, Haus für einen Bergsteiger
+
+----
+
+Text:
+
+Haus für einen Fischer, Haus für einen Bergsteiger
+-
+unprofessional summerschool 2019
+
+----
+
+Gallery:
+
+- 
+  image:
+    - img_4571.jpg
+- 
+  image:
+    - img_4572.jpg
+- 
+  image:
+    - img_4035.jpg
+- 
+  image:
+    - img_4564.jpg

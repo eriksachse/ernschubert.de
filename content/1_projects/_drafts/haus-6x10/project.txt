@@ -1,0 +1,19 @@
+Title: Haus 6x10
+
+----
+
+Text:
+
+Haus 6x10, in einer Landschaft
+-
+
+----
+
+Gallery:
+
+- 
+  image:
+    - grund.jpg
+- 
+  image:
+    - haus-romisch-eins-2.jpg

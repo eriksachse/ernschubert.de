@@ -1,0 +1,5 @@
+title: Projects
+preset: pages
+unlisted: true
+templates:
+  - project

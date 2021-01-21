@@ -1,0 +1,15 @@
+title: Project
+preset: page
+pages: false
+fields:
+  text:
+    type: textarea
+    buttons:
+      - bold
+      - '|'
+      - link
+      - email
+      - ul
+
+
+  gallery: fields/gallery

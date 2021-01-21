@@ -1,0 +1,7 @@
+label: Gallery
+type: structure
+fields:
+  image:
+    label: Image
+    type: files
+    multiple: false

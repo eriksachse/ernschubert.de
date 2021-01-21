@@ -1,0 +1,32 @@
+Title: The imagined landscape
+
+----
+
+Text:
+
+(link: https://www.drawingmatter.org/events/alternative-histories/ text: Alternative histories, drawing matter foundation)
+-
+Edelaar Mosayebi Inderbitzin Architekten, Zürich
+
+----
+
+Gallery:
+
+- 
+  image:
+    - img_8040.jpg
+- 
+  image:
+    - dsc04733.jpg
+- 
+  image:
+    - dsc04738.jpg
+- 
+  image:
+    - dsc04731.jpg
+- 
+  image:
+    - dsc04730.jpg
+- 
+  image:
+    - dsc04755.jpg

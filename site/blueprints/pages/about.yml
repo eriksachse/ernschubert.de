@@ -1,0 +1,8 @@
+title: About
+preset: page
+pages: false
+fields:
+  text:
+    type: textarea
+
+  gallery: fields/gallery

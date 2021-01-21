@@ -1,0 +1,38 @@
+Title: Haus der Weimarer Republik
+
+----
+
+Text:
+
+Haus der Weimarer Republik
+-
+mit Stefan Schnieders
+
+----
+
+Gallery:
+
+- 
+  image:
+    - img_4901.jpg
+- 
+  image:
+    - baustelle.jpg
+- 
+  image:
+    - zeughaus.jpg
+- 
+  image:
+    - grundriss-eg.jpg
+- 
+  image:
+    - grundriss-kg.jpg
+- 
+  image:
+    - querschnitt.jpg
+- 
+  image:
+    - foyer.jpg
+- 
+  image:
+    - buro-f.jpg

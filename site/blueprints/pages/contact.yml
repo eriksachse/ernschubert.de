@@ -1,0 +1,8 @@
+title: Contact
+preset: page
+pages: false
+fields:
+  text:
+    type: textarea
+
+  gallery: fields/gallery

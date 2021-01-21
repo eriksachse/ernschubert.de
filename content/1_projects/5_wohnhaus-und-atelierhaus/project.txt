@@ -1,0 +1,26 @@
+Title: Wohnhaus und Atelierhaus 1
+
+----
+
+Text:
+
+Wohnhaus und Atelierhaus, Eisenach
+-
+mit Julian Daniel
+
+----
+
+Gallery:
+
+- 
+  image:
+    - 2_2-karu1.jpg
+- 
+  image:
+    - 2_3-karu1.jpg
+- 
+  image:
+    - 2_1.jpg
+- 
+  image:
+    - gr.jpg

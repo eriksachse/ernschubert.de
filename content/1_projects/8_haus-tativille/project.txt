@@ -1,0 +1,22 @@
+Title: Haus Tativille
+
+----
+
+Text:
+
+Haus Tativille, Tativille
+-
+
+----
+
+Gallery:
+
+- 
+  image:
+    - bild.jpg
+- 
+  image:
+    - gr.jpg
+- 
+  image:
+    - bild2.jpg

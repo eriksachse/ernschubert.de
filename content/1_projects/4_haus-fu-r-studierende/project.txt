@@ -1,0 +1,41 @@
+Title: Haus für Studierende
+
+----
+
+Text:
+
+Haus für Studierende
+-
+mit Julia Janiel
+
+----
+
+Gallery:
+
+- 
+  image:
+    - innenraum-d100.jpg
+- 
+  image:
+    - rg.jpg
+- 
+  image:
+    - eg2.jpg
+- 
+  image:
+    - eg1.jpg
+- 
+  image:
+    - zimmer.jpg
+- 
+  image:
+    - situation.jpg
+- 
+  image:
+    - ansicht.jpg
+- 
+  image:
+    - schnitt.jpg
+- 
+  image:
+    - isometrie.jpg

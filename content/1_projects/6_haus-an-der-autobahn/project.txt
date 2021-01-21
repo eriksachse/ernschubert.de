@@ -1,0 +1,40 @@
+Title: Haus an der Autobahn
+
+----
+
+Text:
+
+Haus an der Autobahn, Zürich
+
+Wohnen trotz(t) Lärm, Zhaw Workshop
+mit der Professur Entwerfen und Wohnungsbau, 
+Prof. Verena von Beckerath, 
+Bauhaus Universität Weimar
+-
+mit Julian Daniel
+
+----
+
+Gallery:
+
+- 
+  image:
+    - img_6683.jpg
+- 
+  image:
+    - img_6668.jpg
+- 
+  image:
+    - img_6693.jpg
+- 
+  image:
+    - img_6689.jpg
+- 
+  image:
+    - img_6677.jpg
+- 
+  image:
+    - img_6678.jpg
+- 
+  image:
+    - img_6671.jpg

@@ -1,0 +1,102 @@
+@font-face{
+  font-family: 'SuisseIntl-Regular';
+  src: url('SuisseIntl-Regular.otf');
+}
+@font-face{
+  font-family: 'SuisseIntl-Bold';
+  src: url('SuisseIntl-Bold.otf');
+}
+
+html, body{
+  font-family: 'SuisseIntl-Regular', sans-serif;
+  font-size: 18px;
+	position: relative;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+b, strong{
+  font-weight: inherit;
+  font-family: 'SuisseIntl-Bold', sans-serif;
+}
+
+p{
+  padding: 6px;
+  margin: 4px;
+  background: #eee;
+}
+a{
+  color: inherit;
+  text-decoration: underline;
+}
+.aaa{
+  user-select: none;
+  cursor: pointer;
+}
+p.image{
+  width: 40vw;
+  height: 40vw;
+  max-width: 1600px:
+  max-height: 1600px;
+}
+
+@media only screen and (max-width: 600px) {
+  p.image{
+    width: calc(100vw - 20px);
+    height: calc(100vw - 20px);
+  }
+}
+
+.slick-next, .slick-prev{
+  width: 32px;
+  height: 32px;
+  z-index: 1;
+}
+.slick-next{
+  right: 10px;
+}
+.slick-prev{
+  left: 10px;
+}
+
+.slick-prev:before, .slick-next:before{
+  font-family: 'SIR', sans-serif;
+  font-size: 32px;
+  display: inline-block;
+  color: rgba(0,0,255,.8);
+  background: rgba(255,255,255,.4);
+  padding: 2px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+
+  opacity: 1;
+  line-height: 1;
+  mix-blend-mode: difference;
+
+  transition: color .4s ease, background .4s ease;
+
+}
+.slick-prev:hover::before, .slick-next:hover::before{
+  color: rgba(0,0,255,1);
+  background: rgba(255,255,255,1);
+}
+
+
+.slick-slider{
+  height: 100%;
+  width: 100%;
+}
+
+
+
+
+#reset{
+  cursor: pointer;
+}
+.slick-list {
+    outline: none;
+}
+body.waiting * {
+  cursor: progress;
+}

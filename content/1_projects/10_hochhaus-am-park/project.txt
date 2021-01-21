@@ -1,0 +1,35 @@
+Title: Hochhaus am Park
+
+----
+
+Text:
+
+Hochhaus am Park, Berlin
+-
+mit Carolina von Hammerstein
+
+----
+
+Gallery:
+
+- 
+  image:
+    - bild.jpg
+- 
+  image:
+    - rg.jpg
+- 
+  image:
+    - eg.jpg
+- 
+  image:
+    - fassade.jpg
+- 
+  image:
+    - schnitt.jpg
+- 
+  image:
+    - axo.jpg
+- 
+  image:
+    - img_1162.jpg

@@ -1,0 +1,27 @@
+Title: Info
+
+----
+
+Text:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ernst Schubert hat 2020 seinen BSc. Architektur
+an der Bauhaus Universität in Weimar abgeschlossen. 
+Im Moment lebt er in Zürich und arbeitet 
+bei Edelaar Mosayebi Inderbitzin Architekten. 
+Seit 2019 arbeitet er als studentischer Mitarbeiter 
+am Lehrstuhl Entwerfen und Wohnungsbau 
+von Prof. Verena von Beckerath an der Bauhaus Universität. 
+Seine Projekte beschreibt er als Beobachtungen, 
+Geschichten und Fragen in architektonischer Form.
+-
+Website entwickelt von (link: https://napoleon.services/ text: Napoleon Services target:_blank)
+Alle Bilder von Ernst Schubert
+(email: ernst@ernstschubert.de text: Email)
+
+----
+
+Gallery:
+
+- 
+  image:
+    - img_5031.jpg

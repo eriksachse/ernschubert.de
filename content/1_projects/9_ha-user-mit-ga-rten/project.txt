@@ -1,0 +1,38 @@
+Title: Häuser mit Gärten
+
+----
+
+Text:
+
+Häuser mit Gärten, Berlin
+-
+mit Carolina von Hammerstein
+
+----
+
+Gallery:
+
+- 
+  image:
+    - bild.jpg
+- 
+  image:
+    - rg.jpg
+- 
+  image:
+    - eg.jpg
+- 
+  image:
+    - fassade.jpg
+- 
+  image:
+    - schnitt.jpg
+- 
+  image:
+    - axo.jpg
+- 
+  image:
+    - nebenbauten.jpg
+- 
+  image:
+    - img_1120.jpg

@@ -1,0 +1,41 @@
+Title: Wohnhaus und Atelierhaus 2
+
+----
+
+Text:
+
+Wohnhaus und Atelierhaus 2, Neuruppin
+-
+unprofessional summerschool 2019
+
+----
+
+Gallery:
+
+- 
+  image:
+    - img_4568.jpg
+- 
+  image:
+    - img_4567.jpg
+- 
+  image:
+    - img_4566.jpg
+- 
+  image:
+    - img_4573.jpg
+- 
+  image:
+    - img_4574.jpg
+- 
+  image:
+    - img_4575.jpg
+- 
+  image:
+    - img_4591.jpg
+- 
+  image:
+    - img_3049.jpg
+- 
+  image:
+    - img_3158.jpg
